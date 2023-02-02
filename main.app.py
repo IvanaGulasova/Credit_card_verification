@@ -1,7 +1,7 @@
 
-# karta_1 = "49927398716"     # Valid
-# karta_2 = "215455557748"    # Valid
-# karta_3 = "79927398714"     # Invalid
+# card_1 = "49927398716"     # Valid
+# card_2 = "215455557748"    # Valid
+# card_3 = "79927398714"     # Invalid
 
 def turn_numbers(numbers: int) -> list:
     """Function to reverse the card number."""
